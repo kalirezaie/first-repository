@@ -8,4 +8,4 @@ for i in range(0, 5):
 '''
 
 do some thing major and drastic
-super awesome things
+super awesome amazing things
