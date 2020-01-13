@@ -7,3 +7,4 @@ for i in range(0, 5):
     print(array[i])3''''''
 '''
 
+do some thing major and drastic
